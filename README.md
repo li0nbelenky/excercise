@@ -11,7 +11,9 @@ Build a page where there will be 4 sections:
 2. User inputing the answers
 3. Displaying users' name
 4. Displaying total score and percentage of correctly answered questions at the end of the quiz
-5. 
+5. If the success rate is lower than 50% display to the user to "Try Again and improve".
+6. If the success is more than 50% but lower than 90%, display to the user "Nice attempt but try again".
+7. If the success is above 90%, display "Way to go Champ!!"
 
 ## Available Scripts
 In the project directory, you can run:
