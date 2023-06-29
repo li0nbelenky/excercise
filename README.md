@@ -30,3 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `json-server --watch src/db.json --port 3030`
 Runs the simulated backend for the project, it uses the following library: [json-server](https://github.com/typicode/json-server)
+These are the routes that are availble for this task:
+`http://localhost:3030/user`
+`http://localhost:3030/questions/[1-3]`
+`http://localhost:3030/correct_answers/[1-3]`
