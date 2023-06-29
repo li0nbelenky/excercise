@@ -1,0 +1,28 @@
+{
+    "questions": [{
+        "id": 1,
+        "question": "Who Killed JFK?",
+        "answers": [ "Lee Harvey Oswald", "The CIA", "The Mafia", "The Cubans" ]
+      }, 
+    {
+        "id": 2,
+        "question": "What is the correct statement about COVID vaccines?",
+        "answers": [ "They are safe but not effective", "They are effective but not safe", "They are neither safe nor effective" , "They are safe and effective"]
+    },
+    {
+        "id": 3,
+        "question": "who's the best software developer ever?",
+        "answers": [ "Linus Trovalds", "Guido Van Rossum", "Uncle Bob", "You! :)" ]
+    }],
+    "correct_answers": [{"id": 1, "answer": 1}, {"id": 2, "answer": 4}, {"id": 3, "answer": 4}],
+    "user": {
+        "id": 2,
+        "name": "Arie Belenky",
+        "email": "arie.belenky@checkmarx.com"},
+    "scores": [
+        {
+            "id": 2,
+            "answers": []
+        }
+    ]
+}
