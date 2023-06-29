@@ -15,6 +15,9 @@ Build a page where there will be 4 sections:
 6. If the success is more than 50% but lower than 90%, display to the user "Nice attempt but try again".
 7. If the success is above 90%, display "Way to go Champ!!"
 
+Here's a mockup of the design:
+![Alt text](image.png)
+
 ## Available Scripts
 In the project directory, you can run:
 
