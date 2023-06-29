@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { questionsList } from './questions.js';
 
 function App() {
   const [index, setIndex] = useState(0);

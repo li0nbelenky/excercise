@@ -17,10 +17,12 @@ Build a page where there will be 4 sections:
 
 Here's a mockup of the design:
 ![Alt text](image.png)
-
+![Alt text](image-1.png)
 ## Available Scripts
 In the project directory, you can run:
 
+### `npm install`
+Setups modules for project, feel free to add your own if needed.
 ### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
